@@ -12,7 +12,7 @@ Once you have played a bit with the login application and tried to used valid an
 > username: admin  
 > password: unknown' or '1'='1
 
-All the SQL statements with the password attempts will be printed to the console if using the run.sh file.
+All the SQL statements with the password attempts will be printed to the console if run using the run.sh file.
 
 ## Instruction to run the demo
 
