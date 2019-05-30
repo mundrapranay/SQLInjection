@@ -18,8 +18,8 @@ All the SQL statements with the password attempts will be printed to the console
 
 1. clone the repository
 
-2. run the command npm install in the directory of the repository
+2. run the command `npm install` in the directory of the repository
 
-3. run the run.sh file OR for windows users you can simply run node app.js
+3. run the run.sh file `./run.sh` OR for windows users you can simply run `node app.js`
 
 4. go to https://localhost:3000
